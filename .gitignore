@@ -1,0 +1,8 @@
+# mac folder thingy
+.DS_Store
+
+# exports
+*/exports/
+
+# other files to ignore
+*/ignore/
