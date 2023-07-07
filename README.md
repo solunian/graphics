@@ -18,7 +18,7 @@ I'm using GitHub to transfer the files easily from my laptop to my desktop, and 
 
 ## Strawberry Heart!
 
-![](strawberry_heart.png)
+![](./examples/strawberry_heart.png)
 
 ## Dev Notes
 
