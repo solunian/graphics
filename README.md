@@ -16,9 +16,9 @@ Some graphics/photos I've made/edited!
 
 I'm using GitHub to transfer the files easily from my laptop to my desktop, and also everything is "backed up" that way.
 
-## Strawberry Heart!
+## Latest Example
 
-![](./examples/strawberry_heart.png)
+![wonyoung from ive as requested from skyler](./examples/wonyoung.png)
 
 ## Dev Notes
 
