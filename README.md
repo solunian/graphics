@@ -24,5 +24,5 @@ I'm using GitHub to transfer the files easily from my laptop to my desktop, and 
 
 - git will ignore everything in `exports/` and `ignore/` directories, including those named that in the subdirectories
 - licensing stuff is kinda fun!
-- using git lfs for tracking these files (.afdesign, .afphoto, .afpub)
+- using git lfs for tracking these files (.afdesign, .afphoto, .afpub, .aseprite)
 
