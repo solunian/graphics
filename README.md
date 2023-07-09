@@ -8,9 +8,9 @@ Some graphics/photos I've made/edited!
     - amazing pixel art software!
     - one of the greatest tools of all time! :goat:
     - I compiled from source from their [repo](https://github.com/aseprite/aseprite) (sorry aseprite devs, I'm poor :grin:)
-        - the build process is kinda tedious
+        - the build process is kinda tedious btw, but skia is pretty cool
 - [affinity](https://affinity.serif.com)
-    - better than the blisteringly expensive Adobe Creative Cloud 
+    - much cheaper than the blisteringly expensive Adobe Creative Cloud 
     - designer: vector graphics
     - photo: photo editing
 
