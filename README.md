@@ -20,6 +20,8 @@ I'm using GitHub to transfer the files easily from my laptop to my desktop, and 
 
 ![wonyoung from ive as requested from skyler](./examples/wonyoung.png)
 
+> wonyoung from ive as requested from skyler
+
 ## Dev Notes
 
 - git will ignore everything in `exports/` and `ignore/` directories, including those named that in the subdirectories
