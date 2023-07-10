@@ -18,9 +18,9 @@ I'm using GitHub to transfer the files easily from my laptop to my desktop, and 
 
 ## Latest Example
 
-![wonyoung from ive as requested from skyler](./examples/wonyoung.png)
+![park in pixel art](./examples/creekside.png)
 
-> wonyoung from ive as requested from skyler
+> park in pixel art!
 
 ## Dev Notes
 
