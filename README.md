@@ -18,9 +18,9 @@ I'm using GitHub to transfer the files easily from my laptop to my desktop, and 
 
 ## Latest Example
 
-![park in pixel art](./examples/creekside.png)
+![worst intersection](./examples/worst_intersection.png)
 
-> park in pixel art!
+> worst intersection
 
 ## Dev Notes
 
